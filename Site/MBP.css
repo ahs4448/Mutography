@@ -1,0 +1,72 @@
+h2{ 
+ min-height: 200px;
+ min-width: 950px;
+ color: white !important;
+ position: bottom;
+ text-align: bottom;
+}
+
+p{
+color: white !important;
+}
+
+
+
+
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(IMG_0492.JPG.jpeg);
+    background-position: 0% 60%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: navy 0.2em 0.2em 0.2em;
+}
+
+
+nav{
+	padding-top: 5px;
+	margin-top: 5px;
+}
+
+
+
+
+.navbar-brand {
+font-family: 'Lobster', cursive;
+color: navy !important;
+text-shadow: grey 0.1em 0.1em 0.1em;
+}
+
+div {
+font-family: 'Lobster', cursive;
+padding-left: 10px;
+vertical-align: bottom;
+}
+
+
+.thumbnail div: hover {
+    opacity: 3;
+    background: blue;
+}
+
+
+////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
